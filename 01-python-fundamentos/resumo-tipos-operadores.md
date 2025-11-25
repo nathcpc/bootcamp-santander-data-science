@@ -142,6 +142,9 @@ Usados para combinar condições. Retornam `True` ou `False`.
 | `or` | OU lógico (um True) | `True or False` | `True` |
 | `not` | NÃO lógico (inverte) | `not True` | `False` |
 
+AND para ser True tudo tem que ser TRUE /
+OR para ser TRUE apenas um tem que ser TRUE
+
 ### Tabela de Verdade
 
 ```
