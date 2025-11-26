@@ -5,21 +5,22 @@ Repositório de resumos, anotações e desafios do bootcamp de Data Science.
 ## 📚 Estrutura do Bootcamp
 
 ### 1. Python Fundamentos para Data Science
-- Ambiente de desenvolvimento e primeiros passos
-- Conhecendo a linguagem de programação Python
-- Tipos de operadores com Python
-- Manipulando strings com Python
-- Trabalhando com listas em Python
-- Conhecendo tuplas em Python
-- Explorando conjuntos em Python
-- Aprendendo a utilizar dicionários em Python
-- Dominando funções em Python
+- [Ambiente de desenvolvimento e primeiros passos](resumo-ambiente-desenvolvimento.md)
+- [Conhecendo a linguagem de programação Python](resumo-conhecendo-python.md)
+- [Tipos de Operadores com Python](resumo-tipos-operadores.md)
+- [Estruturas Condicionais e de Repetição](resumo-estruturas-condicionais-repeticao.md)
+- [Manipulando Strings com Python](resumo-manipulando-strings.md)
+- [Trabalhando com Listas em Python](resumo-trabalhando-listas.md)
+- [Conhecendo Tuplas em Python](resumo-conhecendo-tuplas.md)
+- [Explorando Conjuntos em Python](resumo-explorando-conjuntos.md)
+- [Aprendendo a Utilizar Dicionários em Python](resumo-utilizando-dicionarios.md)
+- [Dominando Funções em Python](resumo-dominando-funcoes.md)
 
 ### 2. Versionamento de Código com Git e GitHub
-- Conceitos de versionamento
-- Comandos Git essenciais
-- Trabalhando com GitHub
-- Fluxo de trabalho com branches
+- [Conceitos de Versionamento](resumo-versionamento.md)
+- [Comandos Git Essenciais](resumo-comandos-git.md)
+- [Trabalhando com GitHub](resumo-github.md)
+- [Fluxo de Trabalho com Branches](resumo-branches.md)
 
 ### 3. Introdução a Banco de Dados Relacionais e ETL
 - Introdução a Banco de Dados Relacionais (SQL)
@@ -56,11 +57,14 @@ Repositório de resumos, anotações e desafios do bootcamp de Data Science.
 - Desafio Machine Learning
 
 ### 8. Markdown - Documentação e Formatação
-- Introdução ao Markdown
-- Sintaxe Básica
-- Tabelas e Listas
-- Formatação Avançada
-- Criando READMEs Profissionais
+- [O que é Markdown?](resumo-markdown.md#-o-que-é-markdown)
+- [Sintaxe Básica](resumo-markdown.md#-sintaxe-básica)
+- [Tabelas](resumo-markdown.md#-tabelas)
+- [Formatação Avançada](resumo-markdown.md#-formatação-avançada)
+- [Criando READMEs Profissionais](resumo-markdown.md#-criando-readmes-profissionais)
+- [Dicas Práticas](resumo-markdown.md#-dicas-práticas)
+- [Exercício Prático](resumo-markdown.md#-exercício-prático)
+- [Recursos Recomendados](resumo-markdown.md#-recursos-recomendados)
 
 ---
 
