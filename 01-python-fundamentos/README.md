@@ -7,7 +7,7 @@ Resumos e anotações completos sobre os fundamentos de Python necessários para
 - [Ambiente de Desenvolvimento e Primeiros Passos](resumo-ambiente-desenvolvimento.md)
 - [Conhecendo a Linguagem de Programação Python](resumo-conhecendo-python.md)
 - [Tipos de Operadores com Python](resumo-tipos-operadores.md)
-- [Estruturas Condicionais e de Repetição](resumo-estruturas-condicionais-e-de-repeticao.md)
+- [Estruturas Condicionais e de Repetição](resumo-estruturas-condicionais-repeticao.md)
 - [Manipulando Strings com Python](resumo-manipulando-strings.md)
 - [Trabalhando com Listas em Python](resumo-trabalhando-listas.md)
 - [Conhecendo Tuplas em Python](resumo-conhecendo-tuplas.md)
@@ -48,3 +48,6 @@ Ao final deste módulo, você será capaz de:
 ---
 
 [⬅️ Voltar ao Índice Principal](../README.md)
+
+
+[def]: resumo-estruturas-condicionais-repeticao.md
